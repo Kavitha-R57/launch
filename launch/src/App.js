@@ -1,12 +1,21 @@
 
 import './App.css';
-import Form from './launch2.0/Form/Form'
+import Formm from './launch2.0/Form/Formm';
+import Marquee from './launch2.0/Marquee/Marquee';
+
+
+
+
 
 function App() {
   return (
-    <div className="App">
-      <Form/>
+    <div><Marquee/>
+    <div >
+      <Formm/>
+     
+      </div>
     </div>
+    
   );
 }
 
