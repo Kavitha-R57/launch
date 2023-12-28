@@ -6,9 +6,6 @@ import Services from './services/Services';
 import Serv from '../src/services/Serv'
 
 
-
-
-
 function App() {
   return (
     <div>

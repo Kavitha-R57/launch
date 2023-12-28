@@ -11,11 +11,11 @@ function Formm() {
       <form>
       
       <label> Username:
-        <input type="text" id='uname' name="username" /></label> <br/><br/>
+        <input type="text" id='uname' name="username" placeholder='Enter Your Name' /></label> <br/><br/>
       <label> E-mail:
-        <input type="text" id='email' name="name" /></label> <br/><br/>
-      <label> Phone Num:
-        <input type="text" id='phnum' name="name"/></label> <br/> <br/><br/>
+        <input type="text" id='email' name="name" placeholder='Enter Your Mail id' /></label> <br/><br/>
+      <label> Phone No:
+        <input type="text" id='phnum' name="name"  placeholder='Enter Your Phone Number'/></label> <br/> <br/><br/>
         <select>
           <option value="option"> Qualification</option> <br/><br/>
           <option value="be"> BE</option>
