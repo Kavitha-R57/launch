@@ -6,7 +6,7 @@
     return (
         <div className='marquee'>
             <Marquee> 
-                jOb Openings- 2023
+             <p>Job Openings - 2023</p> 
             </Marquee>
         </div>
     )
